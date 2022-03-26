@@ -15,17 +15,17 @@ while ($M == True){
 					$G = False;
 					break;
 					
-				case "USD":
+				case "UK":
 					$T = 0.686 ;
 					$G = False;
 					break;
 					
-				case "USD":
+				case "IND":
 					$T = 1.154 ;
 					$G = False;
 					break;
 					
-				case "USD":
+				case "ESP":
 					$T = 0.013 ;
 					$G = False;
 					break;
