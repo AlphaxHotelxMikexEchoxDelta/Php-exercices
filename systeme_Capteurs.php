@@ -20,8 +20,8 @@ sleep(1);
 if ($moyenCPT <20){ echo"chaudiere: ON "; }
 else{ echo "chaudiere: OFF	 ";}
 
-if ( $moyenCPT>	35 ){ echo"Fenetre: ON \n"; }
-else{ echo "Fenetre OFF \n";}
+if ( $moyenCPT>	35 ){ echo"Ventilation: ON \n"; }
+else{ echo "Ventilation OFF \n";}
 
 sleep(1);
 
