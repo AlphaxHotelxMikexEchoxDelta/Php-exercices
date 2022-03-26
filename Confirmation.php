@@ -1,0 +1,1 @@
+<?php echo "Confirmez-vous la modification (oui/non) ?"; $DD = rtrim(fgets(STDIN)); while( $DD != "oui" && $DD != "non"){echo "Reponse incorrect !\n\n Confirmez-vous la modification (oui/non) ?"; $DD = rtrim(fgets(STDIN));} if($DD == "oui"){echo "modification en cours...\n";} elseif($DD == "non"){echo "modification annulee\n";} ?>
