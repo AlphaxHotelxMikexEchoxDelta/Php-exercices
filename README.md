@@ -17,4 +17,4 @@ voici un résumé de ces programmes :
 
 **+ [Port Department.php](https://github.com/AlphaxHotelxMikexEchoxDelta/Php-exercices/blob/main/portDepartement.php)** ce programme donne le departement du port saisis
 
-**+ [systemeCapteurs.php](https://github.com/AlphaxHotelxMikexEchoxDelta/Php-exercices/blob/main/systeme_Capteurs.php)** est un programme qui imite des capteur de températures et seules leurs valeurs ont allume ou éteint des Chaudières/Ventilations
+**+ [Systeme Capteurs.php](https://github.com/AlphaxHotelxMikexEchoxDelta/Php-exercices/blob/main/systeme_Capteurs.php)** est un programme qui imite des capteur de températures et seules leurs valeurs ont allume ou éteint des Chaudières/Ventilations
